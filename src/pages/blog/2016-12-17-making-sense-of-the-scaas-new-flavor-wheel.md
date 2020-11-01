@@ -10,6 +10,7 @@ tags:
   - flavor
   - tasting
   - everything
+  - lol
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
